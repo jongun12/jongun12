@@ -4,7 +4,6 @@
 - 🎓 **Major**: Mechanical Engineering
 - 🔭 I’m currently working on **miniproject**
 - 🌱 I’m currently learning **Python, Robotics**
-- 💬 Ask me about **[자신 있는 분야]**
 - 📫 How to reach me: **jongun1203@gmail.com**
 
 ---
